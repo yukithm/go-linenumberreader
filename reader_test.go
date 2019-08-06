@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	linenumberreader "github.com/pasela/go-linenumberreader"
+	linenumberreader "github.com/yukithm/go-linenumberreader"
 )
 
 func TestEndWithLF(t *testing.T) {
